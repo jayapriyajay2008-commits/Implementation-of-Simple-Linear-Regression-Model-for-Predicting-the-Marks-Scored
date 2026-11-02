@@ -20,8 +20,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
+Developed by: Jayapriya P
+RegisterNumber:  212225040144
 */
 ```
 ```
@@ -91,9 +91,10 @@ plt.grid(True)
 plt.show()
 ```
 
-## Output:
+## output:
 ![alt text](image.png)
 ![alt text](image-1.png)
+![alt text](image-2.png)
 
 
 ## Result:
